@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qudirah</h1>
-<h3 align="center">A passionate Data Scientist from Nigeria</h3>
+<h3 align="center">A Data Scientist/Machine Learning Engineer from Nigeria</h3>
 
 - 📫 How to reach me **Qudirahalimi@gmail.com**
 <p align="left">
